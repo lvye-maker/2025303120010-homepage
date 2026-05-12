@@ -1,0 +1,12 @@
+body {
+  line-height: 1.8;
+  font-size: 18px;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
+
+.navbar-title {
+  font-weight: bold;
+}
